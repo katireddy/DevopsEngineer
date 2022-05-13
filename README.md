@@ -18,6 +18,10 @@
 - configuring the servers using ansible like installing  zipping tool ,networking tools on all hosts 
 -  making sure that all pods are running 
 -  building new docker Images based on requirement using base Image
+
+
+
+
 *Shell script*
 
 ```
