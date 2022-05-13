@@ -8,11 +8,17 @@
 -  For montoring deamon sets are deployed on each node ,for prometheus ,node exporter is used along with kube-state metrics to make prometheus understand metrics 
 -  My reponsilibites also include building infra ,if needed like bastian host using terrraform modules which already exists
 -  My role is also to configure servers using ansible and custom ami are build using packer provisioners
-** Day to Day activities**
+
+
+
+**Day to Day activities**
 - helping the develop teams to upload code to git without merge conflicts
 - Ceating new jenkins pipleines using libraries of jenkins exist
 - creating infra needed like new ec2 instance or s3 bucket based on tickets assigned in sprint 
 - configuring the servers using ansible like installing  zipping tool ,networking tools on all hosts 
 -  making sure that all pods are running 
 -  building new docker Images based on requirement using base Image
+
+
+
 *ALL THE BEST*
