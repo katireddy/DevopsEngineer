@@ -47,6 +47,8 @@ exit $retVal
 
 ```
 
+[Refer to this blog reg ec2 instace start and stop](https://www.101daysofdevops.com/how-to-stop-start-ec2-instance-on-a-scheduled-basis-to-save-cost-by-using-boto3-and-lambda/)
+
 
 
 
