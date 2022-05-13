@@ -1,4 +1,9 @@
 # DevopsEngineer
+
+![alt text](https://fsb.zobj.net/crop.php?r=MGX91JwQjDLfMqT0_k3GA6LwmXKHOl69nj3U_LYzlUllcx11e1XMkfbU8PjkHQcUBIBGjI_YSWhOhgvlDcoboPuzl43cfM7KQFehmhnwKOCZbHw6kzFP1gI0ed8YiXWvaovowmVn78GoiNpeTz7MB5WaXtKqS3ndcTPr4Ok1y6yTgF3rHZ1_yKeBxlOLEI-idg0whOpOqjWdq18U )
+
+
+
 **Roles and Responsibloties**
 - Devlopers will develop code and stores on version control,if they face any issue during merge conflicts ,my role is to help them 
 -  My role is to make source code  build with build tools like maven ,if any errors on the console of CI tools(jenkins) ,required dependcies are added in POM.xml based    on error with the help of developers (I have worked on springboot application code )
@@ -49,7 +54,13 @@ exit $retVal
 
 [Refer to this blog reg ec2 instace start and stop](https://www.101daysofdevops.com/how-to-stop-start-ec2-instance-on-a-scheduled-basis-to-save-cost-by-using-boto3-and-lambda/)
 
-![alt text](https://fsb.zobj.net/crop.php?r=MGX91JwQjDLfMqT0_k3GA6LwmXKHOl69nj3U_LYzlUllcx11e1XMkfbU8PjkHQcUBIBGjI_YSWhOhgvlDcoboPuzl43cfM7KQFehmhnwKOCZbHw6kzFP1gI0ed8YiXWvaovowmVn78GoiNpeTz7MB5WaXtKqS3ndcTPr4Ok1y6yTgF3rHZ1_yKeBxlOLEI-idg0whOpOqjWdq18U )
+
+| Devops Tools | Cloud  | Scripting |
+| --- | --- | --- |
+| Jenkins | AWS | python |
+| Git| more | more |
+| Terraform | more | more |
+|Ansible | more | more |
 
 
 *ALL THE BEST*
