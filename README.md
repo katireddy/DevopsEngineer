@@ -65,4 +65,4 @@ exit $retVal
 |Ansible | more | more |
 
 
-*ALL THE BEST*
+*ALL THE BEST*  :smile:
